@@ -1,0 +1,18 @@
+Data_Dictionary;Renown;Meaning
+fecha;Date;Fecha del accidente
+HORA declarada;Time;Hora del accidente
+Ruta;Location ;Ubicación del accidente
+OperadOR;Operator;Aerolínea del avión
+flight_no;Flight_No;Nro de vuelo
+route;Route ;Ruta tomada en avión
+ac_type;Type;Tipo de avion
+registration;Registration ;Registro de personas a bordo
+cn_ln;Id_Nave;Identificacion de Nave
+all_aboard;Aboard ;Número de personas a bordo
+PASAJEROS A BORDO;Passengers_on_Board;Pasajeros_a_bordo
+crew_aboard;Crew_Aboard;Tripulacion a bordo
+cantidad de fallecidos;Fatalities;Cantidad de fallecidos
+passenger_fatalities;Passenger_Fatalities;Número de resultados letales
+crew_fatalities;Crew_Fatalities;Fatalidades_de_la_tripulación
+ground;Ground;Total de personas muertas debido a un accidente en tierra (por ejemplo, aquellas que no estaban a bordo, pero murieron a causa del accidente)
+summary;Summary;Breve resumen del caso
